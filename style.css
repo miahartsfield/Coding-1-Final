@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family:Georgia;
+    padding: 25px 25px 25px;
+}
+ 
+body{
+   background-color: rgb(214, 138, 103);
+}
+
+nav{
+    background-color: rgb(214, 138, 103);
+    color:White;
+}
+
+a:hover {
+    color: lightgray;
+  }
+
+footer
+.contact-me{
+    text-align: center;
+    font-family: Georgia;
+}
+
+.row{
+    text-align: center;
+    color: white;
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+.Mia {
+    width:200px;
+    height: 300px;
+    align-content: center;
+    padding: 40px;
+  }
